@@ -22,5 +22,5 @@
    git clone https://github.com/QAutumn815/QAutumn815-factorio-server-manager-Chinese.git
 
 2.启动
-  ```CMD
-  factorio-server-manager.exe --dir 游戏目录（如：E:\Factorio_2.0.23）
+   ```CMD
+   factorio-server-manager.exe --dir 游戏目录（如：E:\Factorio_2.0.23）
